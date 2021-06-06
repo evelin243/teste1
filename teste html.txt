@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+     <head>
+      <body>
+          <h1>Está é uma tag H1</h1>
+          <p>Isto é um parágrafo.</p>
+          <h2>Isto é um h2 atributo id</h2>
+          
+          <p><strong>Este parágrafo é importante estar em negrito e tem
+o seguinte trecho de código: console. log ('foobar).</strong></p>
+          
+         
+          <p><a href="https://www.google.com.br/"
+target="_blank">Visite Google!</a></p>
+
+           <p>Lista não ordenada</p>
+         <ul>
+              <li>Item da lista</li>
+              <li>Item da lista</li>
+              <li>Item da lista</li>
+         </ul>
+     <h3>Isto é um h3 com atributo id</h3>
+     <p>Isto é um parágrado</p>
+
+     <h2>Isto é um h2 com o atributo id</h2>
+
+     <p>Isto é um parágrafo que fala sobre a abreviação HTML e a importância do atributo lang</hp>
+     <li><a lang=''en''>.</p>
+     <body>
+<html>
