@@ -26,6 +26,6 @@ target="_blank">Visite Google!</a></p>
      <h2>Isto é um h2 com o atributo id</h2>
 
      <p>Isto é um parágrafo que fala sobre a abreviação HTML e a importância do atributo lang</hp>
-     <li><a lang=''en''>.</p>
+     <a lang"en''>.</p>
      <body>
 <html>
